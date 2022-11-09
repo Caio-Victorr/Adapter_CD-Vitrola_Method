@@ -1,4 +1,4 @@
-# Adapter_PS2-USB_Method
+# Adapter_CD-Vitrola_Method
 
-Adaptação de Entrada PS2 para Entrada USB. 
-Atividade executado para a disciplina de Engenharia de Software II
+Adaptação de um DVD para uma Vitrola. 
+Avaliação executada para a disciplina de Engenharia de Software II
